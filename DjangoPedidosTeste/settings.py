@@ -28,6 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['polar-ridge-91227.herokuapp.com']
 
+CORS_ORIGIN_ALLOW_ALL = True
 
 # Application definition
 
@@ -41,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'corsheaders',
 ]
 
 MIDDLEWARE_CLASSES = [
