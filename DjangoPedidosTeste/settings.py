@@ -88,10 +88,10 @@ WSGI_APPLICATION = 'DjangoPedidosTeste.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'pedidosteste',
-        'USER': 'postgres',
-        'PASSWORD': 'admin',
-        'HOST': 'localhost',
+        'NAME': 'd5hj7jivsbcsqq',
+        'USER': 'htnfayqqpxlmyk',
+        'PASSWORD': '2583803e71b02a371d14b166ed4da709d8e424349823e373fc32454a11a2931a',
+        'HOST': 'ec2-54-221-198-206.compute-1.amazonaws.com',
         'PORT': '5432'
     }
 }
