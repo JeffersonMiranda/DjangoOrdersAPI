@@ -97,6 +97,7 @@
     <Folder Include="DjangoPedidosTeste\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Procfile" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
