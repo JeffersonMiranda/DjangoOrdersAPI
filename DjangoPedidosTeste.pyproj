@@ -5,6 +5,7 @@
     <Name>DjangoPedidosTeste</Name>
     <RootNamespace>DjangoPedidosTeste</RootNamespace>
     <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -16,7 +17,7 @@
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
-    <WebBrowserUrl>http://localhost</WebBrowserUrl>
+    <WebBrowserUrl>http://localhost:53993</WebBrowserUrl>
     <LaunchProvider>Django launcher</LaunchProvider>
     <DjangoSettingsModule>DjangoPedidosTeste.settings</DjangoSettingsModule>
     <OutputPath>.</OutputPath>
@@ -46,8 +47,30 @@
     <Compile Include="app\models\Rentabilidade.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="app\models\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\serializers\ProdutoSerializer.py" />
+    <Compile Include="app\serializers\RentabilidadeSerializer.py" />
+    <Compile Include="app\serializers\PedidoSerializer.py" />
+    <Compile Include="app\serializers\ItemSerializer.py" />
+    <Compile Include="app\serializers\ClienteSerializer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\serializers\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\tests.py" />
-    <Compile Include="app\views.py" />
+    <Compile Include="app\views\ProdutoView.py" />
+    <Compile Include="app\views\RentabilidadeView.py" />
+    <Compile Include="app\views\PedidoView.py" />
+    <Compile Include="app\views\ItemView.py" />
+    <Compile Include="app\views\ClienteView.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\views\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\__init__.py" />
     <Compile Include="app\migrations\__init__.py" />
     <Compile Include="manage.py" />
@@ -60,6 +83,10 @@
     <Folder Include="app\" />
     <Folder Include="app\migrations\" />
     <Folder Include="app\models\" />
+    <Folder Include="app\serializers\" />
+    <Folder Include="app\views\" />
+    <Folder Include="C:\Users\miran\Documents\Visual Studio 2017\Projects\DjangoPedidosTeste\app\serializers\" />
+    <Folder Include="C:\Users\miran\Documents\Visual Studio 2017\Projects\DjangoPedidosTeste\app\views\" />
     <Folder Include="app\static\" />
     <Folder Include="app\static\app\" />
     <Folder Include="app\static\app\content\" />

@@ -3802,3 +3802,71 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extens
 2018-01-18T22:38:29: [ERROR] rest_framework.exceptions.Throttled.Throttled: Unknown has no name
 2018-01-18T22:38:29: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework"
 2018-01-18T22:38:32: Deleting 0 files
+
+2018-01-19T05:05:56: Start analysis
+2018-01-19T05:05:56: IncludeModulesFromModulePath = win32com
+2018-01-19T05:06:05: Including c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2 because psycopg2._psycopg needs updating
+2018-01-19T05:06:05: Including c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2 because psycopg2.tests.dbapi20 needs updating
+2018-01-19T05:06:05: Deleting 0 files
+2018-01-19T05:06:05: Scraping psycopg2._psycopg
+2018-01-19T05:06:05: Command: "C:\Users\miran\Documents\Visual Studio 2017\Projects\DjangoPedidosTeste\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape psycopg2._psycopg "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages" "C:\Users\miran\Documents\Visual Studio 2017\Projects\DjangoPedidosTeste\env\.ptvs\psycopg2\psycopg2._psycopg"
+2018-01-19T05:06:06: Scraped 1 files
+2018-01-19T05:06:06: astropy.CallDepth = 0
+2018-01-19T05:06:06: delphixpy.CallDepth = 0
+2018-01-19T05:06:06: matplotlib.CallDepth = 3
+2018-01-19T05:06:06: pandas.CallDepth = 0
+2018-01-19T05:06:06: sympy.CallDepth = 0
+2018-01-19T05:06:06: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2" with 11 files
+2018-01-19T05:06:08: Parsing complete
+2018-01-19T05:06:08: Analyzing "psycopg2.errorcodes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\errorcodes.py")
+2018-01-19T05:06:08: Analyzing "psycopg2.extensions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\extensions.py")
+2018-01-19T05:06:08: Analyzing "psycopg2.extras" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\extras.py")
+2018-01-19T05:06:08: Analyzing "psycopg2.pool" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\pool.py")
+2018-01-19T05:06:08: Analyzing "psycopg2.psycopg1" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\psycopg1.py")
+2018-01-19T05:06:08: Analyzing "psycopg2.sql" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\sql.py")
+2018-01-19T05:06:08: Analyzing "psycopg2.tz" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tz.py")
+2018-01-19T05:06:08: Analyzing "psycopg2._ipaddress" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\_ipaddress.py")
+2018-01-19T05:06:08: Analyzing "psycopg2._json" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\_json.py")
+2018-01-19T05:06:08: Analyzing "psycopg2._range" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\_range.py")
+2018-01-19T05:06:08: Analyzing "psycopg2" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\__init__.py")
+2018-01-19T05:06:08: Starting analysis of 11 modules
+2018-01-19T05:06:17: Analysis complete
+2018-01-19T05:06:17: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2"
+2018-01-19T05:06:17: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2"
+2018-01-19T05:06:17: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2" with 30 files
+2018-01-19T05:06:18: Parsing complete
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.dbapi20" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\dbapi20.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.dbapi20_tpc" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\dbapi20_tpc.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.testconfig" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\testconfig.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.testutils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\testutils.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_async" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_async.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_async_keyword" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_async_keyword.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_bugX000" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_bugX000.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_bug_gc" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_bug_gc.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_cancel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_cancel.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_connection" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_connection.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_copy" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_copy.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_cursor" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_cursor.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_dates" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_dates.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_errcodes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_errcodes.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_extras_dictcursor" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_extras_dictcursor.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_fast_executemany" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_fast_executemany.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_green" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_green.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_ipaddress" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_ipaddress.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_lobject" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_lobject.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_module" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_module.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_notify" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_notify.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_psycopg2_dbapi20" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_psycopg2_dbapi20.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_quote" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_quote.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_replication" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_replication.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_sql" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_sql.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_transaction" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_transaction.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_types_basic" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_types_basic.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_types_extras" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_types_extras.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests.test_with" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_with.py")
+2018-01-19T05:06:18: Analyzing "psycopg2.tests" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\__init__.py")
+2018-01-19T05:06:18: Starting analysis of 30 modules
+2018-01-19T05:06:20: Analysis complete
+2018-01-19T05:06:20: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2"
+2018-01-19T05:06:20: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2"
+2018-01-19T05:06:28: Deleting 0 files

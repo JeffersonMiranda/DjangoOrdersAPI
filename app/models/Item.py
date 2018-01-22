@@ -1,6 +1,6 @@
 from django.db import models
-from Pedido import Pedido
-from Produto import Produto
+from app.models.Pedido import Pedido
+from app.models.Produto import Produto
 
 class Item(models.Model):
     
