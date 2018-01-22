@@ -26,7 +26,7 @@ SECRET_KEY = '6c11a02a-572f-46e3-9aab-e90f1edda55a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['polar-ridge-91227.herokuapp.com']
 
 
 # Application definition
