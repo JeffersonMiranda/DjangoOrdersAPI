@@ -4,6 +4,8 @@
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <Name>DjangoPedidosTeste</Name>
     <RootNamespace>DjangoPedidosTeste</RootNamespace>
+    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -15,7 +17,7 @@
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
-    <WebBrowserUrl>http://localhost</WebBrowserUrl>
+    <WebBrowserUrl>http://localhost:53993</WebBrowserUrl>
     <LaunchProvider>Django launcher</LaunchProvider>
     <DjangoSettingsModule>DjangoPedidosTeste.settings</DjangoSettingsModule>
     <OutputPath>.</OutputPath>
@@ -30,10 +32,45 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="app\forms.py" />
-    <Compile Include="app\models.py" />
+    <Compile Include="app\models\Cliente.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\models\Item.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\models\Pedido.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\models\Produto.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\models\Rentabilidade.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\models\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\serializers\ProdutoSerializer.py" />
+    <Compile Include="app\serializers\RentabilidadeSerializer.py" />
+    <Compile Include="app\serializers\PedidoSerializer.py" />
+    <Compile Include="app\serializers\ItemSerializer.py" />
+    <Compile Include="app\serializers\ClienteSerializer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\serializers\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\tests.py" />
-    <Compile Include="app\views.py" />
+    <Compile Include="app\views\ProdutoView.py" />
+    <Compile Include="app\views\RentabilidadeView.py" />
+    <Compile Include="app\views\PedidoView.py" />
+    <Compile Include="app\views\ItemView.py" />
+    <Compile Include="app\views\ClienteView.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\views\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\__init__.py" />
     <Compile Include="app\migrations\__init__.py" />
     <Compile Include="manage.py" />
@@ -45,6 +82,11 @@
   <ItemGroup>
     <Folder Include="app\" />
     <Folder Include="app\migrations\" />
+    <Folder Include="app\models\" />
+    <Folder Include="app\serializers\" />
+    <Folder Include="app\views\" />
+    <Folder Include="C:\Users\miran\Documents\Visual Studio 2017\Projects\DjangoPedidosTeste\app\serializers\" />
+    <Folder Include="C:\Users\miran\Documents\Visual Studio 2017\Projects\DjangoPedidosTeste\app\views\" />
     <Folder Include="app\static\" />
     <Folder Include="app\static\app\" />
     <Folder Include="app\static\app\content\" />
@@ -55,6 +97,7 @@
     <Folder Include="DjangoPedidosTeste\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Procfile" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
@@ -90,6 +133,17 @@
     <None Include="readme.html">
       <SubType>WebBrowser</SubType>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env\">
+      <Id>env</Id>
+      <Version>3.6</Version>
+      <Description>env (Python 3.6 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Django.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 

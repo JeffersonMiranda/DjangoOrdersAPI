@@ -3,11 +3,18 @@ Definition of urls for DjangoPedidosTeste.
 """
 
 from datetime import datetime
+from django.conf.urls import include
+from rest_framework.routers import DefaultRouter
 from django.conf.urls import url
 import django.contrib.auth.views
+from app import views
 
-import app.forms
-import app.views
+router = DefaultRouter()
+
+router.register(r'clientes',views.ClienteView)
+router.register(r'itens',views.ItemView)
+router.register(r'pedidos',views.PedidoView)
+router.register(r'produtos',views.ProdutoView)
 
 # Uncomment the next lines to enable the admin:
 # from django.conf.urls import include
@@ -15,32 +22,10 @@ import app.views
 # admin.autodiscover()
 
 urlpatterns = [
-    # Examples:
-    url(r'^$', app.views.home, name='home'),
-    url(r'^contact$', app.views.contact, name='contact'),
-    url(r'^about', app.views.about, name='about'),
-    url(r'^login/$',
-        django.contrib.auth.views.login,
-        {
-            'template_name': 'app/login.html',
-            'authentication_form': app.forms.BootstrapAuthenticationForm,
-            'extra_context':
-            {
-                'title': 'Log in',
-                'year': datetime.now().year,
-            }
-        },
-        name='login'),
-    url(r'^logout$',
-        django.contrib.auth.views.logout,
-        {
-            'next_page': '/',
-        },
-        name='logout'),
-
+    url(r'^', include(router.urls)),
     # Uncomment the admin/doc line below to enable admin documentation:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
-
+   
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
 ]
