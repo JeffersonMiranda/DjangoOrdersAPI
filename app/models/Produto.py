@@ -11,12 +11,10 @@ class Produto(models.Model):
     def possuiMultiplo(self): ## SE PRODUTO POSSUI MUTIPLO
         if (self.multiplo):
             return True
-        return False
+        return False ## NÃO POSSUI MÚLTIPLO
 
-    def isMultiplo(self,Item): ## SE É MULTIPLO
-        if self.possuiMultiplo():
+    def isMultiplo(self,Item): ## SE QUANTIDADE É MULTIPLO        
             if (Item.quantidade % self.multiplo == 0):     
                 return True  ## IS MULTIPLE
-            return False ## NOT MULTIPLE
-        return False ## NÃO POSSUI MÚLTIPLO
+            return False ## NOT MULTIPLE   
     ## BUSINESS LOGIC ##

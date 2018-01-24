@@ -6765,3 +6765,957 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extens
 2018-01-22T10:13:04: Analyzing "django.views.generic.list" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\views\generic\list.py")
 2018-01-22T10:13:04: Analyzing "django.views.generic" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\views\generic\__init__.py")
 2018-01-22T10:13:04: Starting analysis of 822 modules
+2018-01-22T10:13:38: Analysis complete
+2018-01-22T10:13:38: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django"
+2018-01-22T10:13:46: [ERROR] django.contrib.sessions.backends.file.SessionStore.SessionStore: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.contrib.staticfiles.utils.get_files: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.contrib.staticfiles.utils.matches_patterns: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.contrib.staticfiles.management.commands.collectstatic.Command.Command: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.contrib.staticfiles.management.commands.collectstatic.Command.Command: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.contrib.staticfiles.management.commands.collectstatic.Command.Command: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.contrib.staticfiles.management.commands.collectstatic.Command.Command: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.commands.loaddata.humanize: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.FileSystemStorage.FileSystemStorage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.Storage.Storage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.Storage.Storage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.Storage.Storage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.Storage.Storage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.storage.Storage.Storage: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.glob.glob_escape: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.move.file_move_safe: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.move._samefile: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.cache.backends.filebased.FileBasedCache.FileBasedCache: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.encoding.force_str: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.encoding.force_str: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.encoding.force_unicode: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.encoding.force_unicode: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.encoding.force_text: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.encoding.force_text: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.db.migrations.serializer.serializer_factory: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.db.models.fields.files.FieldFile.FieldFile: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.db.models.fields.files.FileField.FileField: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.db.models.fields.files.FileField.FileField: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.db.models.fields.files.FileField.FileField: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.templates.TemplateCommand.TemplateCommand: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.templates.TemplateCommand.TemplateCommand: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.templates.TemplateCommand.TemplateCommand: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.db.migrations.writer.MigrationWriter.MigrationWriter: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.contrib.staticfiles.finders.FileSystemFinder.FileSystemFinder: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.contrib.staticfiles.finders.FileSystemFinder.FileSystemFinder: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.views.static.directory_index: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils._os.npath: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils._os.npath: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils._os.safe_join: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils._os.abspathu: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils._os.abspathu: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils._os.upath: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils._os.upath: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.mail.backends.filebased.EmailBackend.EmailBackend: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.base.File.File: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.files.base.File.File: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.find_commands: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.template.base.Origin.Origin: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.commands.compilemessages.has_bom: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.translation.trans_real.DjangoTranslation.DjangoTranslation: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.archive.BaseArchive.BaseArchive: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.archive.Archive.Archive: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.archive.Archive.Archive: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.archive.extract: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.archive.ZipArchive.ZipArchive: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.utils.archive.TarArchive.TarArchive: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.commands.makemessages.TranslatableFile.TranslatableFile: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.commands.makemessages.write_pot_file: Unknown has no name
+2018-01-22T10:13:46: [ERROR] django.core.management.commands.makemessages.Command.Command: Unknown has no name
+2018-01-22T10:13:46: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django"
+2018-01-22T10:13:46: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django" with 10 files
+2018-01-22T10:13:47: Parsing complete
+2018-01-22T10:13:47: Analyzing "django.contrib.auth.tests.utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\contrib\auth\tests\utils.py")
+2018-01-22T10:13:47: Analyzing "django.contrib.auth.tests" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\contrib\auth\tests\__init__.py")
+2018-01-22T10:13:47: Analyzing "django.test.client" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\test\client.py")
+2018-01-22T10:13:47: Analyzing "django.test.html" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\test\html.py")
+2018-01-22T10:13:47: Analyzing "django.test.runner" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\test\runner.py")
+2018-01-22T10:13:47: Analyzing "django.test.selenium" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\test\selenium.py")
+2018-01-22T10:13:47: Analyzing "django.test.signals" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\test\signals.py")
+2018-01-22T10:13:47: Analyzing "django.test.testcases" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\test\testcases.py")
+2018-01-22T10:13:47: Analyzing "django.test.utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\test\utils.py")
+2018-01-22T10:13:47: Analyzing "django.test" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django\test\__init__.py")
+2018-01-22T10:13:47: Starting analysis of 10 modules
+2018-01-22T10:13:50: Analysis complete
+2018-01-22T10:13:50: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django"
+2018-01-22T10:13:50: [ERROR] django.test.utils.requires_tz_support: Cannot save single member:  (Microsoft.PythonTools.Analysis.Values.SpecializedCallable)
+2018-01-22T10:13:50: [ERROR] django.test.html.Element.Element: Unknown has no name
+2018-01-22T10:13:50: [ERROR] django.test.html.Element.Element: Unknown has no name
+2018-01-22T10:13:50: [ERROR] django.test.client.RequestFactory.RequestFactory: Unknown has no name
+2018-01-22T10:13:50: [ERROR] django.test.client.RequestFactory.RequestFactory: Unknown has no name
+2018-01-22T10:13:50: [ERROR] django.test.client.FakePayload.FakePayload: Unknown has no name
+2018-01-22T10:13:50: [ERROR] django.test.testcases.assert_and_parse_html: Unknown has no name
+2018-01-22T10:13:50: [ERROR] django.test.testcases.SimpleTestCase.SimpleTestCase: Unknown has no name
+2018-01-22T10:13:50: [ERROR] django.test.testcases.SimpleTestCase.SimpleTestCase: Unknown has no name
+2018-01-22T10:13:50: [ERROR] django.test.testcases.SimpleTestCase.SimpleTestCase: Unknown has no name
+2018-01-22T10:13:50: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\django"
+2018-01-22T10:13:50: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip" with 241 files
+2018-01-22T10:13:54: Parsing complete
+2018-01-22T10:13:54: Analyzing "pip.basecommand" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\basecommand.py")
+2018-01-22T10:13:54: Analyzing "pip.baseparser" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\baseparser.py")
+2018-01-22T10:13:54: Analyzing "pip.cmdoptions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\cmdoptions.py")
+2018-01-22T10:13:54: Analyzing "pip.download" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\download.py")
+2018-01-22T10:13:54: Analyzing "pip.exceptions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\exceptions.py")
+2018-01-22T10:13:54: Analyzing "pip.index" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\index.py")
+2018-01-22T10:13:54: Analyzing "pip.locations" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\locations.py")
+2018-01-22T10:13:54: Analyzing "pip.pep425tags" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\pep425tags.py")
+2018-01-22T10:13:54: Analyzing "pip.status_codes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\status_codes.py")
+2018-01-22T10:13:54: Analyzing "pip.wheel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\wheel.py")
+2018-01-22T10:13:54: Analyzing "pip" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip.__main__" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\__main__.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.check" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\check.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.completion" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\completion.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.download" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\download.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.freeze" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\freeze.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.hash" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\hash.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.help" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\help.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.install" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\install.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.list" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\list.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.search" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\search.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.show" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\show.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.uninstall" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\uninstall.py")
+2018-01-22T10:13:54: Analyzing "pip.commands.wheel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\wheel.py")
+2018-01-22T10:13:54: Analyzing "pip.commands" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\commands\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip.compat.dictconfig" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\compat\dictconfig.py")
+2018-01-22T10:13:54: Analyzing "pip.compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\compat\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip.models.index" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\models\index.py")
+2018-01-22T10:13:54: Analyzing "pip.models" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\models\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip.operations.check" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\operations\check.py")
+2018-01-22T10:13:54: Analyzing "pip.operations.freeze" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\operations\freeze.py")
+2018-01-22T10:13:54: Analyzing "pip.operations" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\operations\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip.req.req_file" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\req\req_file.py")
+2018-01-22T10:13:54: Analyzing "pip.req.req_install" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\req\req_install.py")
+2018-01-22T10:13:54: Analyzing "pip.req.req_set" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\req\req_set.py")
+2018-01-22T10:13:54: Analyzing "pip.req.req_uninstall" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\req\req_uninstall.py")
+2018-01-22T10:13:54: Analyzing "pip.req" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\req\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.appdirs" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\appdirs.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.build" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\build.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.deprecation" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\deprecation.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.encoding" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\encoding.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.filesystem" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\filesystem.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.glibc" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\glibc.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.hashes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\hashes.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.logging" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\logging.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.outdated" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\outdated.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.packaging" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\packaging.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.setuptools_build" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\setuptools_build.py")
+2018-01-22T10:13:54: Analyzing "pip.utils.ui" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\ui.py")
+2018-01-22T10:13:54: Analyzing "pip.utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\utils\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip.vcs.bazaar" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\vcs\bazaar.py")
+2018-01-22T10:13:54: Analyzing "pip.vcs.git" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\vcs\git.py")
+2018-01-22T10:13:54: Analyzing "pip.vcs.mercurial" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\vcs\mercurial.py")
+2018-01-22T10:13:54: Analyzing "pip.vcs.subversion" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\vcs\subversion.py")
+2018-01-22T10:13:54: Analyzing "pip.vcs" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\vcs\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.appdirs" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\appdirs.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distro" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distro.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.ipaddress" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\ipaddress.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.ordereddict" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\ordereddict.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.pyparsing" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\pyparsing.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.retrying" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\retrying.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.six" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\six.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.adapter" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.cache" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.controller" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.filewrapper" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.heuristics" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.serialize" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.wrapper" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol._cmd" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.caches.file_cache" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.caches.redis_cache" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.cachecontrol.caches" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.colorama.ansi" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\colorama\ansi.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.colorama.ansitowin32" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.colorama.initialise" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\colorama\initialise.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.colorama.win32" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\colorama\win32.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.colorama.winterm" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\colorama\winterm.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.colorama" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\colorama\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\compat.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.database" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\database.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.index" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\index.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.locators" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\locators.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.manifest" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\manifest.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.markers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\markers.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.metadata" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\metadata.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.resources" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\resources.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.scripts" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\scripts.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.util" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\util.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.version" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\version.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib.wheel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\wheel.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib._backport.misc" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib._backport.shutil" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib._backport.sysconfig" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib._backport.tarfile" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.distlib._backport" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.constants" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\constants.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.html5parser" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.serializer" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib._ihatexml" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib._inputstream" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib._tokenizer" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib._utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.filters.base" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.filters.lint" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.filters.optionaltags" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.filters.sanitizer" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.filters.whitespace" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.filters" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treeadapters.genshi" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treeadapters.sax" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treeadapters" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treebuilders.base" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treebuilders.dom" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treebuilders.etree" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treebuilders" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treewalkers.base" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treewalkers.dom" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treewalkers.etree" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treewalkers.genshi" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib.treewalkers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib._trie.datrie" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib._trie.py" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib._trie._base" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.html5lib._trie" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.lockfile.linklockfile" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.lockfile.mkdirlockfile" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.lockfile.pidlockfile" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.lockfile.sqlitelockfile" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.lockfile.symlinklockfile" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.lockfile" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging.markers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\markers.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging.requirements" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\requirements.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging.specifiers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging.utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\utils.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging.version" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\version.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging._compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\_compat.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging._structures" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\_structures.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging.__about__" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\__about__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.packaging" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\packaging\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.pkg_resources" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.progress.bar" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\progress\bar.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.progress.counter" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\progress\counter.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.progress.helpers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\progress\helpers.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.progress.spinner" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\progress\spinner.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.progress" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\progress\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.adapters" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\adapters.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.api" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\api.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.auth" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\auth.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.certs" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\certs.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\compat.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.cookies" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\cookies.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.exceptions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\exceptions.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.hooks" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\hooks.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.models" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\models.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.sessions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\sessions.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.status_codes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\status_codes.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.structures" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\structures.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\utils.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.big5freq" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.big5prober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.chardetect" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.chardistribution" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.charsetprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.constants" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.cp949prober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.escprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.escsm" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.euckrprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.euctwprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.jisfreq" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.jpcntx" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.latin1prober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.mbcssm" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.sjisprober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.universaldetector" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet.utf8prober" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.chardet" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.connection" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.exceptions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.fields" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.filepost" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.request" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.response" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3._collections" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.contrib.socks" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\socks.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.contrib" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.packages.six" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.packages" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.util.connection" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.util.request" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.util.response" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.util.retry" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.util.url" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.requests.packages.urllib3.util" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.webencodings.labels" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\webencodings\labels.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.webencodings.mklabels" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.webencodings.tests" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\webencodings\tests.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.webencodings.x_user_defined" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2018-01-22T10:13:54: Analyzing "pip._vendor.webencodings" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2018-01-22T10:13:54: Starting analysis of 241 modules
+2018-01-22T10:14:07: Analysis complete
+2018-01-22T10:14:07: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip"
+2018-01-22T10:14:11: [ERROR] pip.index.PackageFinder.PackageFinder: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts._enquote_executable: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts._enquote_executable: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts.ScriptMaker.ScriptMaker: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts.ScriptMaker.ScriptMaker: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts.ScriptMaker.ScriptMaker: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts.ScriptMaker.ScriptMaker: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts.ScriptMaker.ScriptMaker: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts.ScriptMaker.ScriptMaker: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts.ScriptMaker.ScriptMaker: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.scripts.ScriptMaker.ScriptMaker: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.outdated.USER_CACHE_DIR: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.locators.DirectoryLocator.DirectoryLocator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.sessions.SessionRedirectMixin.SessionRedirectMixin: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.sessions.SessionRedirectMixin.SessionRedirectMixin: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.sessions.Session.Session: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.sessions.Session.Session: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.sessions.merge_setting: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.appdirs.user_config_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.appdirs.user_data_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_uninstall.UninstallPathSet.UninstallPathSet: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_uninstall.UninstallPathSet.UninstallPathSet: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_uninstall.UninstallPathSet.UninstallPathSet: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_uninstall.UninstallPathSet.UninstallPathSet: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_uninstall.UninstallPthEntries.UninstallPthEntries: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.hashes.Hashes.Hashes: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.EggInfoDistribution.EggInfoDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.InstalledDistribution.InstalledDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.InstalledDistribution.InstalledDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.InstalledDistribution.InstalledDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.BaseInstalledDistribution.BaseInstalledDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.new_dist_class.InstalledDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.new_dist_class.InstalledDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.new_dist_class.InstalledDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.database.old_dist_class.EggInfoDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.locations.USER_CACHE_DIR: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.cmdoptions.USER_CACHE_DIR: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.wheel.Wheel.Wheel: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.wheel.Wheel.Wheel: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.wheel.Wheel.Wheel: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.wheel.to_posix: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.wheel.to_posix: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.wheel.to_posix: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.cachecontrol.caches.file_cache._secure_open_write: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util._csv_open: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util._iglob: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.Configurator.Configurator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.iglob: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.SafeTransport.SafeTransport: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.SafeTransport.SafeTransport: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.SafeTransport.SafeTransport: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.FileOperator.FileOperator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.FileOperator.FileOperator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.FileOperator.FileOperator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.FileOperator.FileOperator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.FileOperator.FileOperator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.FileOperator.FileOperator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.FileOperator.FileOperator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.FileOperator.FileOperator: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.Transport.Transport: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.Transport.Transport: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.Transport.Transport: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.path_to_cache_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.convert_path: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.CSVWriter.CSVWriter: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.get_cache_base: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.Cache.Cache: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.util.Cache.Cache: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.metadata.Metadata.Metadata: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.metadata.Metadata.Metadata: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.commands.install.get_lib_location_guesses: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.commands.install.get_lib_location_guesses: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copymode: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.rmtree: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil._samefile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil._samefile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copystat: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copystat: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copyfile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copyfile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil._ensure_directory: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copytree: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copytree: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copy2: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.shutil.copy2: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile._Stream._Stream: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile._LowLevelFile._LowLevelFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.open: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.bltn_open: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.tarfile.TarFile.TarFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.wheel.open_for_csv: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.wheel.rehash: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.wheel.WheelBuilder.WheelBuilder: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.wheel.fix_script: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.wheel.get_entrypoints: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.wheel._cache_for_link: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.download._copy_file: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.download.is_archive_file: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.download.path_to_url: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.download.get_file_content: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.download.get_file_content: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.download._check_download_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.manifest.Manifest.Manifest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pyparsing.ParseExpression.ParseExpression: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pyparsing._ustr: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.utils.to_key_val_list: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.html5lib.html5parser.HTMLParser.HTMLParser: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.lockfile.mkdirlockfile.MkdirLockFile.MkdirLockFile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.resources.ResourceCache.ResourceCache: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.resources.ResourceFinder.ResourceFinder: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.resources.ResourceFinder.ResourceFinder: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.resources.ResourceFinder.ResourceFinder: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.resources.finder_for_path: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.compat.fsdecode: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib.compat.cache_from_source: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.compat.samefile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_file.process_line: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_file.parse_requirements: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.lockfile._SharedBase._SharedBase: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.lockfile.LockBase.LockBase: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.lockfile.LockBase.LockBase: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_install._strip_extras: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_install.InstallRequirement.InstallRequirement: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_install.InstallRequirement.InstallRequirement: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_install.InstallRequirement.InstallRequirement: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_install.InstallRequirement.InstallRequirement: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.req.req_install.InstallRequirement.InstallRequirement: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.unzip_file: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.call_subprocess: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.ensure_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.untar_file: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.unpack_file: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.renames: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.renames: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.backup_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.splitext: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.file_contents: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.is_installable_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.is_local: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.display_path: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.display_path: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.read_text_file: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip.utils.normalize_path: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.user_config_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.user_cache_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.site_config_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.site_config_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.user_log_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.user_data_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.site_data_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.appdirs.site_data_dir: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.file_ns_handler: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources._normalize_cached: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.PathMetadata.PathMetadata: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.find_distributions: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.MemoizedZipManifests.MemoizedZipManifests: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources._bypass_ensure_directory: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.Distribution.Distribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipManifests.ZipManifests: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipManifests.ZipManifests: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.WorkingSet.WorkingSet: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.WorkingSet.WorkingSet: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.FileMetadata.FileMetadata: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.FileMetadata.FileMetadata: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.find_eggs_in_zip: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.DefaultProvider.DefaultProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.get_default_cache: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ResourceManager.ResourceManager: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.ResourceManager.ResourceManager: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.pkg_resources.normalize_path: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.models.PreparedRequest.PreparedRequest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.models.PreparedRequest.PreparedRequest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.models.PreparedRequest.PreparedRequest: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.models.Request.Request: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.requests.models.RequestEncodingMixin.RequestEncodingMixin: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distro.LinuxDistribution.LinuxDistribution: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.sysconfig._parse_makefile: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.sysconfig._safe_realpath: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.sysconfig._safe_realpath: Unknown has no name
+2018-01-22T10:14:11: [ERROR] pip._vendor.distlib._backport.sysconfig._PROJECT_BASE: Unknown has no name
+2018-01-22T10:14:11: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pip"
+2018-01-22T10:14:11: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources" with 15 files
+2018-01-22T10:14:11: Parsing complete
+2018-01-22T10:14:11: Analyzing "pkg_resources" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\__init__.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources.extern" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\extern\__init__.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.appdirs" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.pyparsing" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.six" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\six.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\__init__.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging.markers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging.requirements" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging.specifiers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging.utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging.version" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging._compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging._structures" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging.__about__" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2018-01-22T10:14:11: Analyzing "pkg_resources._vendor.packaging" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2018-01-22T10:14:11: Starting analysis of 15 modules
+2018-01-22T10:14:14: Analysis complete
+2018-01-22T10:14:14: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources"
+2018-01-22T10:14:14: [ERROR] pkg_resources.file_ns_handler: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._normalize_cached: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.PathMetadata.PathMetadata: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.PathMetadata.PathMetadata: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.find_distributions: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.MemoizedZipManifests.MemoizedZipManifests: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._bypass_ensure_directory: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.Distribution.Distribution: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipManifests.ZipManifests: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipManifests.ZipManifests: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.FileMetadata.FileMetadata: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.FileMetadata.FileMetadata: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.find_eggs_in_zip: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.DefaultProvider.DefaultProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.DefaultProvider.DefaultProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ZipProvider.ZipProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.ResourceManager.ResourceManager: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.NullProvider.NullProvider: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources.normalize_path: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.pyparsing.ParseExpression.ParseExpression: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.pyparsing._ustr: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.user_config_dir: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.user_cache_dir: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.site_config_dir: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.site_config_dir: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.AppDirs.AppDirs: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.user_log_dir: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.user_data_dir: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.site_data_dir: Unknown has no name
+2018-01-22T10:14:14: [ERROR] pkg_resources._vendor.appdirs.site_data_dir: Unknown has no name
+2018-01-22T10:14:14: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pkg_resources"
+2018-01-22T10:14:14: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2" with 11 files
+2018-01-22T10:14:15: Parsing complete
+2018-01-22T10:14:15: Analyzing "psycopg2.errorcodes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\errorcodes.py")
+2018-01-22T10:14:15: Analyzing "psycopg2.extensions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\extensions.py")
+2018-01-22T10:14:15: Analyzing "psycopg2.extras" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\extras.py")
+2018-01-22T10:14:15: Analyzing "psycopg2.pool" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\pool.py")
+2018-01-22T10:14:15: Analyzing "psycopg2.psycopg1" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\psycopg1.py")
+2018-01-22T10:14:15: Analyzing "psycopg2.sql" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\sql.py")
+2018-01-22T10:14:15: Analyzing "psycopg2.tz" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tz.py")
+2018-01-22T10:14:15: Analyzing "psycopg2._ipaddress" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\_ipaddress.py")
+2018-01-22T10:14:15: Analyzing "psycopg2._json" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\_json.py")
+2018-01-22T10:14:15: Analyzing "psycopg2._range" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\_range.py")
+2018-01-22T10:14:15: Analyzing "psycopg2" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\__init__.py")
+2018-01-22T10:14:15: Starting analysis of 11 modules
+2018-01-22T10:14:16: Analysis complete
+2018-01-22T10:14:16: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2"
+2018-01-22T10:14:16: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2"
+2018-01-22T10:14:16: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2" with 30 files
+2018-01-22T10:14:16: Parsing complete
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.dbapi20" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\dbapi20.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.dbapi20_tpc" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\dbapi20_tpc.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.testconfig" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\testconfig.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.testutils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\testutils.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_async" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_async.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_async_keyword" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_async_keyword.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_bugX000" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_bugX000.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_bug_gc" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_bug_gc.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_cancel" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_cancel.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_connection" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_connection.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_copy" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_copy.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_cursor" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_cursor.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_dates" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_dates.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_errcodes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_errcodes.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_extras_dictcursor" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_extras_dictcursor.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_fast_executemany" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_fast_executemany.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_green" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_green.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_ipaddress" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_ipaddress.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_lobject" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_lobject.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_module" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_module.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_notify" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_notify.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_psycopg2_dbapi20" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_psycopg2_dbapi20.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_quote" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_quote.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_replication" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_replication.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_sql" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_sql.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_transaction" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_transaction.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_types_basic" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_types_basic.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_types_extras" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_types_extras.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests.test_with" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\test_with.py")
+2018-01-22T10:14:16: Analyzing "psycopg2.tests" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2\tests\__init__.py")
+2018-01-22T10:14:16: Starting analysis of 30 modules
+2018-01-22T10:14:18: Analysis complete
+2018-01-22T10:14:18: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2"
+2018-01-22T10:14:18: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\psycopg2"
+2018-01-22T10:14:18: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz" with 6 files
+2018-01-22T10:14:19: Parsing complete
+2018-01-22T10:14:19: Analyzing "pytz.exceptions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz\exceptions.py")
+2018-01-22T10:14:19: Analyzing "pytz.lazy" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz\lazy.py")
+2018-01-22T10:14:19: Analyzing "pytz.reference" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz\reference.py")
+2018-01-22T10:14:19: Analyzing "pytz.tzfile" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz\tzfile.py")
+2018-01-22T10:14:19: Analyzing "pytz.tzinfo" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz\tzinfo.py")
+2018-01-22T10:14:19: Analyzing "pytz" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz\__init__.py")
+2018-01-22T10:14:19: Starting analysis of 6 modules
+2018-01-22T10:14:20: Analysis complete
+2018-01-22T10:14:20: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz"
+2018-01-22T10:14:20: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\pytz"
+2018-01-22T10:14:20: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework" with 65 files
+2018-01-22T10:14:20: Parsing complete
+2018-01-22T10:14:20: Analyzing "rest_framework.apps" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\apps.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authentication" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authentication.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.checks" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\checks.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\compat.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.decorators" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\decorators.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.documentation" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\documentation.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.exceptions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\exceptions.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.fields" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\fields.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.filters" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\filters.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.generics" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\generics.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.metadata" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\metadata.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.mixins" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\mixins.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.models" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\models.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.negotiation" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\negotiation.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.pagination" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\pagination.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.parsers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\parsers.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.permissions" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\permissions.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.relations" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\relations.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.renderers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\renderers.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.request" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\request.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.response" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\response.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.reverse" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\reverse.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.routers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\routers.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.serializers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\serializers.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.settings" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\settings.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.status" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\status.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.test" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\test.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.throttling" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\throttling.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.urlpatterns" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\urlpatterns.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.urls" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\urls.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.validators" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\validators.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.versioning" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\versioning.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.views" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\views.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.viewsets" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\viewsets.py")
+2018-01-22T10:14:20: Analyzing "rest_framework" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\__init__.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.admin" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\admin.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.apps" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\apps.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.models" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\models.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.serializers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\serializers.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.views" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\views.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\__init__.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.management" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\management\__init__.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.management.commands.drf_create_token" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\management\commands\drf_create_token.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.management.commands" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\management\commands\__init__.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.authtoken.migrations" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\authtoken\migrations\__init__.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.schemas.generators" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\schemas\generators.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.schemas.inspectors" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\schemas\inspectors.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.schemas.utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\schemas\utils.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.schemas.views" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\schemas\views.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.schemas" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\schemas\__init__.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.templatetags.rest_framework" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\templatetags\rest_framework.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.templatetags" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\templatetags\__init__.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.breadcrumbs" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\breadcrumbs.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.encoders" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\encoders.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.field_mapping" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\field_mapping.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.formatting" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\formatting.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.html" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\html.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.humanize_datetime" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\humanize_datetime.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.json" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\json.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.mediatypes" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\mediatypes.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.model_meta" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\model_meta.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.representation" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\representation.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.serializer_helpers" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\serializer_helpers.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils.urls" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\urls.py")
+2018-01-22T10:14:20: Analyzing "rest_framework.utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework\utils\__init__.py")
+2018-01-22T10:14:20: Starting analysis of 65 modules
+2018-01-22T10:14:23: Analysis complete
+2018-01-22T10:14:23: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework"
+2018-01-22T10:14:24: [ERROR] rest_framework.utils.formatting.dedent: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.fields.Field.Field: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.fields.Field.Field: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.test.APIRequestFactory.APIRequestFactory: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.test.APIRequestFactory.APIRequestFactory: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.test.APIRequestFactory.APIRequestFactory: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.test.APIRequestFactory.APIRequestFactory: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.test.APIRequestFactory.APIRequestFactory: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.parsers.FileUploadParser.FileUploadParser: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.parsers.DataAndFiles.DataAndFiles: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.parsers.DataAndFiles.DataAndFiles: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.utils.representation.smart_repr: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.authtoken.serializers.AuthTokenSerializer.AuthTokenSerializer: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.serializers.BaseSerializer.BaseSerializer: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.serializers.BaseSerializer.BaseSerializer: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.serializers.BaseSerializer.BaseSerializer: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.serializers.ListSerializer.ListSerializer: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.serializers.ListSerializer.ListSerializer: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.serializers.ListSerializer.ListSerializer: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.utils.field_mapping.needs_label: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.utils.field_mapping.get_field_kwargs: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.relations.RelatedField.RelatedField: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.relations.ManyRelatedField.ManyRelatedField: Unknown has no name
+2018-01-22T10:14:24: [ERROR] rest_framework.exceptions.Throttled.Throttled: Unknown has no name
+2018-01-22T10:14:24: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\rest_framework"
+2018-01-22T10:14:24: Start group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools" with 44 files
+2018-01-22T10:14:24: Parsing complete
+2018-01-22T10:14:24: Analyzing "setuptools.archive_util" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\archive_util.py")
+2018-01-22T10:14:24: Analyzing "setuptools.depends" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\depends.py")
+2018-01-22T10:14:24: Analyzing "setuptools.dist" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\dist.py")
+2018-01-22T10:14:24: Analyzing "setuptools.extension" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\extension.py")
+2018-01-22T10:14:24: Analyzing "setuptools.glob" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\glob.py")
+2018-01-22T10:14:24: Analyzing "setuptools.launch" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\launch.py")
+2018-01-22T10:14:24: Analyzing "setuptools.lib2to3_ex" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\lib2to3_ex.py")
+2018-01-22T10:14:24: Analyzing "setuptools.monkey" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\monkey.py")
+2018-01-22T10:14:24: Analyzing "setuptools.msvc" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\msvc.py")
+2018-01-22T10:14:24: Analyzing "setuptools.namespaces" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\namespaces.py")
+2018-01-22T10:14:24: Analyzing "setuptools.package_index" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\package_index.py")
+2018-01-22T10:14:24: Analyzing "setuptools.py26compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\py26compat.py")
+2018-01-22T10:14:24: Analyzing "setuptools.py27compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\py27compat.py")
+2018-01-22T10:14:24: Analyzing "setuptools.py31compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\py31compat.py")
+2018-01-22T10:14:24: Analyzing "setuptools.sandbox" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\sandbox.py")
+2018-01-22T10:14:24: Analyzing "setuptools.ssl_support" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\ssl_support.py")
+2018-01-22T10:14:24: Analyzing "setuptools.unicode_utils" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\unicode_utils.py")
+2018-01-22T10:14:24: Analyzing "setuptools.version" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\version.py")
+2018-01-22T10:14:24: Analyzing "setuptools.windows_support" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\windows_support.py")
+2018-01-22T10:14:24: Analyzing "setuptools" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\__init__.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.alias" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\alias.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.bdist_egg" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\bdist_egg.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.bdist_rpm" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\bdist_rpm.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.bdist_wininst" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\bdist_wininst.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.build_ext" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\build_ext.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.build_py" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\build_py.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.develop" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\develop.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.easy_install" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\easy_install.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.egg_info" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\egg_info.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.install" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\install.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.install_egg_info" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\install_egg_info.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.install_lib" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\install_lib.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.install_scripts" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\install_scripts.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.py36compat" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\py36compat.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.register" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\register.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.rotate" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\rotate.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.saveopts" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\saveopts.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.sdist" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\sdist.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.setopt" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\setopt.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.test" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\test.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.upload" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\upload.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command.upload_docs" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\upload_docs.py")
+2018-01-22T10:14:24: Analyzing "setuptools.command" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\command\__init__.py")
+2018-01-22T10:14:24: Analyzing "setuptools.extern" ("c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools\extern\__init__.py")
+2018-01-22T10:14:24: Starting analysis of 44 modules
+2018-01-22T10:14:27: Analysis complete
+2018-01-22T10:14:27: Saving group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools"
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.analyze_egg: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.scan_module: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.walk_egg: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.bdist_egg.bdist_egg: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.write_stub: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.make_zipfile: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.make_zipfile: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.make_zipfile: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.bdist_egg.write_safety_flag: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.build_py.assert_relative: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.build_py.assert_relative: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.build_py.build_py.build_py: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.build_py.build_py.build_py: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.build_py.build_py.build_py: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.build_py.build_py.build_py: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.develop.develop.develop: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.sandbox._execfile: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.sandbox.run_setup: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.install_egg_info.install_egg_info.install_egg_info: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.archive_util.unpack_archive: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.archive_util.unpack_zipfile: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.archive_util.default_filter: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.archive_util.default_filter: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.archive_util.unpack_directory: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.archive_util.unpack_tarfile: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.PackageIndex.PackageIndex: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.distros_for_filename: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.package_index.interpret_distro_name: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.egg_info.FileList.FileList: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.egg_info.egg_info.egg_info: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.egg_info.egg_info.egg_info: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.egg_info.translate_pattern: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.SystemInfo.SystemInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.SystemInfo.SystemInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.SystemInfo.SystemInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.SystemInfo.SystemInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.SystemInfo.SystemInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.RegistryInfo.RegistryInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.RegistryInfo.RegistryInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.RegistryInfo.RegistryInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.RegistryInfo.RegistryInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.RegistryInfo.RegistryInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.RegistryInfo.RegistryInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.EnvironmentInfo.EnvironmentInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.EnvironmentInfo.EnvironmentInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.EnvironmentInfo.EnvironmentInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.msvc.EnvironmentInfo.EnvironmentInfo: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.dist.Distribution.Distribution: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.windows_support.hide_file: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.PackageFinder.PackageFinder: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.upload_docs.upload_docs.upload_docs: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.upload_docs.upload_docs.upload_docs: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob.glob: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob._iglob: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob.iglob: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob._rlistdir: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob._isrecursive: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob.has_magic: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob.glob2: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob.glob0: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.glob.glob1: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.PthDistributions.PthDistributions: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.chmod: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.easy_install.easy_install: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.samefile: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.samefile: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.easy_install.update_dist_caches: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.namespaces.Installer.Installer: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.setopt.edit_config: Unknown has no name
+2018-01-22T10:14:27: [ERROR] setuptools.command.setopt.config_file: Unknown has no name
+2018-01-22T10:14:27: End of group "c:\users\miran\documents\visual studio 2017\projects\djangopedidosteste\env\lib\site-packages\setuptools"
+2018-01-22T10:14:31: Deleting 2 files
+2018-01-22T10:14:31: Deleting "C:\Users\miran\Documents\Visual Studio 2017\Projects\DjangoPedidosTeste\env\.ptvs\_dummy_threading.idb"
+2018-01-22T10:14:31: Deleting "C:\Users\miran\Documents\Visual Studio 2017\Projects\DjangoPedidosTeste\env\.ptvs\_dummy__threading_local.idb"

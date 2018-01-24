@@ -26,7 +26,7 @@ SECRET_KEY = '6c11a02a-572f-46e3-9aab-e90f1edda55a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['polar-ridge-91227.herokuapp.com']
+ALLOWED_HOSTS = ['polar-ridge-91227.herokuapp.com','localhost']
 
 CORS_ORIGIN_ALLOW_ALL = True
 
@@ -62,6 +62,9 @@ REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework.authentication.BasicAuthentication',
         'rest_framework.authentication.SessionAuthentication',
+    ),
+    'DEFAULT_PARSER_CLASSES': (
+        'rest_framework.parsers.JSONParser',
     )
 }
 
