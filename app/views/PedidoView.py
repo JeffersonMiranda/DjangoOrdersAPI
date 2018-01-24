@@ -1,4 +1,5 @@
 from rest_framework import viewsets, status
+from app.serializers.ProdutoSerializer import ProdutoSerializer
 from _decimal import Decimal
 from app.models.Produto import Produto
 from app.serializers.PedidoSerializer import PedidoSerializer
@@ -33,7 +34,7 @@ class PedidoView(viewsets.ModelViewSet):
                     if item.produto.possuiMultiplo(): ## SE O PRODUTO POSSUI MULTIPLO PARA SER CALCULADO
                         if not item.produto.isMultiplo(item):
                             return Response({'ErrorMsg':'O produto '+ item.produto.descricao + ' só pode ser vendido em quantidades múltiplas de '+ str(item.produto.multiplo) +' !'}, status = status.HTTP_406_NOT_ACCEPTABLE)                    
-                    if not (item.isPrecoMaiorZero()):
+                    if not  (item.isPrecoMaiorZero()):
                         return Response({'ErrorMsg':'Preços precisam ser maior do que zero e conter dois decimais !'}, status = status.HTTP_406_NOT_ACCEPTABLE)
                     if not (item.isQuantidadeMaiorZero()):
                         return Response({'ErrorMsg': 'Quantidades devem ser maiores do que zero !'}, status = status.HTTP_406_NOT_ACCEPTABLE)

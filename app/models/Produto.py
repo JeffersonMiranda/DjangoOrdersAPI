@@ -13,7 +13,8 @@ class Produto(models.Model):
             return True
         return False ## NÃO POSSUI MÚLTIPLO
 
-    def isMultiplo(self,Item): ## SE QUANTIDADE É MULTIPLO        
+    def isMultiplo(self,Item): ## SE QUANTIDADE É MULTIPLO
+        
             if (Item.quantidade % self.multiplo == 0):     
                 return True  ## IS MULTIPLE
             return False ## NOT MULTIPLE   
