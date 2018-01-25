@@ -42,7 +42,7 @@ class PedidoView(viewsets.ModelViewSet):
                         return Response({'ErrorMsg': 'Rentabilidade não pode ser ruim !'}, status = status.HTTP_406_NOT_ACCEPTABLE)                   
                         
                 else:
-                    return Response(serializerItem.errors, status=status.HTTP_406_NOT_ACCEPTABLE)
+                    return Response({"ErrorMsg":serializerItem.errors}, status=status.HTTP_406_NOT_ACCEPTABLE)
 
             ## SE O OBJETO SEGUIU AS REGRAS DE NEGÓCIOS CORRETAMENTE, ENTÃO SALVA O PEDIDO COM ITENS NO BANCO :::
             serializerPedido.save()
