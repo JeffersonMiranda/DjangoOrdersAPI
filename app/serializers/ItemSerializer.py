@@ -4,6 +4,7 @@ from app.models.Item import Item
 
 class ItemSerializer(serializers.ModelSerializer):
    
+    produto = ProdutoSerializer(read_only=True)
 
     class Meta:
         model = Item
