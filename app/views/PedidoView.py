@@ -14,6 +14,8 @@ class PedidoView(viewsets.ModelViewSet):
     queryset = Pedido.objects.all()
     serializer_class =  serializers.PedidoSerializer
 
+  
+
     def create(self, request):
 
         pedidoData = request.data
@@ -28,7 +30,7 @@ class PedidoView(viewsets.ModelViewSet):
                     item = Item()                 
                     item.quantidade = serializerItem.data['quantidade']
                     item.precoUnitario = Decimal(serializerItem.data['precoUnitario'])
-                    item.produto = Produto.objects.get(id = serializerItem.data['produto'])
+                    item.produto = Produto.objects.get(id = serializerItem['produto']['id'])
 
                     ## APLICAÇÃO DAS REGRAS DE NEGÓCIOS
                     if item.produto.possuiMultiplo(): ## SE O PRODUTO POSSUI MULTIPLO PARA SER CALCULADO
@@ -44,11 +46,53 @@ class PedidoView(viewsets.ModelViewSet):
                 else:
                     return Response({"ErrorMsg":serializerItem.errors}, status=status.HTTP_406_NOT_ACCEPTABLE)
 
-            ## SE O OBJETO SEGUIU AS REGRAS DE NEGÓCIOS CORRETAMENTE, ENTÃO SALVA O PEDIDO COM ITENS NO BANCO :::
+          
+              ## SE O OBJETO SEGUIU AS REGRAS DE NEGÓCIOS CORRETAMENTE, ENTÃO SALVA O PEDIDO COM ITENS NO BANCO :::
             serializerPedido.save()
 
         else:
             return Response({"ErrorMsg": serializerPedido.errors} ,status=status.HTTP_406_NOT_ACCEPTABLE)        
        
         return Response({"data":serializerPedido.data},status = status.HTTP_201_CREATED)
+
+    def update(self,request,pk = None):
+
+        pedidoData = request.data
+        pedido = Pedido.objects.get(id=pedidoData['id'])
+
+        serializerPedido = PedidoSerializer(pedido,data = pedidoData)
+        if serializerPedido.is_valid():
+          
+            for i in pedidoData['itens']:            
+                serializerItem = ItemSerializer(data = i)
+                
+                if serializerItem.is_valid():    
+                    item = Item()                 
+                    item.quantidade = serializerItem.data['quantidade']
+                    item.precoUnitario = Decimal(serializerItem.data['precoUnitario'])
+                    item.produto = Produto.objects.get(id = serializerItem.data['produto']['id'])
+
+                    ## APLICAÇÃO DAS REGRAS DE NEGÓCIOS
+                    if item.produto.possuiMultiplo(): ## SE O PRODUTO POSSUI MULTIPLO PARA SER CALCULADO
+                        if not item.produto.isMultiplo(item):
+                            return Response({'ErrorMsg':'O produto '+ item.produto.descricao + ' só pode ser vendido em quantidades múltiplas de '+ str(item.produto.multiplo) +' !'}, status = status.HTTP_406_NOT_ACCEPTABLE)                    
+                    if not  (item.isPrecoMaiorZero()):
+                        return Response({'ErrorMsg':'Preços precisam ser maior do que zero e conter dois decimais !'}, status = status.HTTP_406_NOT_ACCEPTABLE)
+                    if not (item.isQuantidadeMaiorZero()):
+                        return Response({'ErrorMsg': 'Quantidades devem ser maiores do que zero !'}, status = status.HTTP_406_NOT_ACCEPTABLE)
+                    if not (item.calcRentabilidade()):
+                        return Response({'ErrorMsg': 'Rentabilidade não pode ser ruim !'}, status = status.HTTP_406_NOT_ACCEPTABLE)                   
+                        
+                else:
+                    return Response({"ErrorMsg":serializerItem.errors}, status=status.HTTP_406_NOT_ACCEPTABLE)
+
+          
+              ## SE O OBJETO SEGUIU AS REGRAS DE NEGÓCIOS CORRETAMENTE, ENTÃO SALVA O PEDIDO COM ITENS NO BANCO :::
+            serializerPedido.save()
+
+        else:
+            return Response({"ErrorMsg": serializerPedido.errors} ,status=status.HTTP_406_NOT_ACCEPTABLE)        
+       
+        return Response({"data":serializerPedido.data},status = status.HTTP_201_CREATED)
+        
 
