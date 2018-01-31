@@ -10,7 +10,7 @@ class PedidoSerializer(serializers.ModelSerializer):
     class Meta:
         model = Pedido
         fields = '__all__'
-        extra_kwargs = {'id': {'read_only': False}}
+        extra_kwargs = {'id': {'read_only': False,'required':False}}
 
     def create(self, validated_data):
         pedido = validated_data
@@ -52,9 +52,7 @@ class PedidoSerializer(serializers.ModelSerializer):
                     itemObject.save()
                 else: ## SENÃO CRIA NOVA INSTANCIA
                     Item.objects.create(pedido = instance, **i)
-
-        
-
+                      
 
         return instance
             

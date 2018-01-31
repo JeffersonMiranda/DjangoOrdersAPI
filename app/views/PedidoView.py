@@ -30,7 +30,7 @@ class PedidoView(viewsets.ModelViewSet):
                     item = Item()                 
                     item.quantidade = serializerItem.data['quantidade']
                     item.precoUnitario = Decimal(serializerItem.data['precoUnitario'])
-                    item.produto = Produto.objects.get(id = serializerItem['produto']['id'])
+                    item.produto = Produto.objects.get(id = serializerItem.data['produto']['id'])
 
                     ## APLICAÇÃO DAS REGRAS DE NEGÓCIOS
                     if item.produto.possuiMultiplo(): ## SE O PRODUTO POSSUI MULTIPLO PARA SER CALCULADO
